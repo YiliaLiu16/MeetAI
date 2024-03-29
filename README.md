@@ -1,4 +1,4 @@
-# MeetAI 
+# MeetAI :man_teacher:
 
 Expression, gesture, and pose recognition for MeetAI
 
