@@ -1,8 +1,11 @@
-# MeetAI-ai-model
+# MeetAI 
 
 Expression, gesture, and pose recognition for MeetAI
 
-## Installation
+## Demo :star:
+https://github.com/YiliaLiu16/MeetAI/assets/165431811/eb89ecd9-ce09-4834-8fff-88ebdb679bc3
+
+## Installation :thought_balloon:
 
 Assure that you have conda installed on your computer.
 
